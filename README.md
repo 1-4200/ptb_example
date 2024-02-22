@@ -32,3 +32,7 @@ Make sure your sui client is looking at the right network and has enough gas to 
 ```zsh
 sui client publish ./ --gas-budget 100000000
 ```
+
+### Scripts
+
+Refer to the README.md in the `scripts` directory for more information.
