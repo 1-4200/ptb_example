@@ -8,6 +8,10 @@ bun install
 
 To run:
 
+```bash
+cp .env.example .env
+```
+
 ### mint_and_send
 
 Add `mint_and_send` function call to the Move call of the PTB for XXX times and execute it
