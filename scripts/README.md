@@ -6,6 +6,20 @@ To install dependencies:
 bun install
 ```
 
+## PTB
+
+> On Sui, a transaction is more than a basic record of the flow of assets. Transactions on Sui are composed of a number
+> of
+> commands that execute on inputs to define the result of the transaction. Termed programmable transaction blocks (
+> PTBs),
+> these groups of commands define all user transactions on Sui. PTBs allow a user to call multiple Move functions,
+> manage
+> their objects, and manage their coins in a single transaction--without publishing a new Move package.
+
+https://docs.sui.io/concepts/transactions/prog-txn-blocks
+
+## Getting Started
+
 To run:
 
 ```bash
