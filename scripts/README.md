@@ -26,7 +26,7 @@ To run:
 cp .env.example .env
 ```
 
-### mint_and_send
+### [mint_and_send](https://github.com/1-4200/ptb_example/blob/main/move/sources/mint.move#L44-L45)
 
 Add `mint_and_send` function call to the Move call of the PTB for XXX times and execute it
 
@@ -37,7 +37,7 @@ bun run mint_and_send.ts
 Sample tx result:
 https://suiexplorer.com/txblock/6UhcSvToyZ7rJmsz37RoR9DWS2fCsT4ZBCyTw2Cg6ocd?network=testnet
 
-### batch_mint_and_send
+### [batch_mint_and_send](https://github.com/1-4200/ptb_example/blob/main/move/sources/mint.move#L50)
 
 ```bash
 bun run batch_mint_and_send.ts
